@@ -1,5 +1,3 @@
-# Group Project 1 with following team members
-# Rohit Rajagopal, Sameer Rai, Vineeth Pydimarry and Yatin Kode
 
 ######################## Start of Part 1 #########################################
 
